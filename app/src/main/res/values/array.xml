@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="xposed_scope">
+        <item>com.dragon.read</item>
+		<item>com.xs.fm</item>
+		<item>com.vmos.pro</item>
+		<item>com.lemon.lv</item>
+		<item>com.iflytek.vflynote</item>
+		<item>com.catchingnow.icebox</item>
+		<item>com.lerist.fakelocation</item>
+		<item>com.qq.qcloud</item>
+		<item>com.yipeinet.excel</item>
+		<item>com.youdao.note</item>
+		<item>cn.kuwo.player</item>
+		<item>com.growing.topwidgets</item>
+		<item>littleWhiteBear.HookHelper</item>
+		<item>com.cosmos.tools</item>
+		<item>com.gorgeous.lite</item>
+		<item>io.iftech.android.box</item>
+		<item>cn.ticktick.task</item>
+		<item>imoblife.brainwavestus</item>
+		<item>com.jideos.jnotes</item>
+		<item>com.duapps.recorder</item>
+		<item>com.estrongs.android.pop</item>
+		<item>com.xt.retouch</item>
+		<item>com.auto.greenskipad</item>
+        <item>com.kwai.m2u</item>
+        <item>com.bigsea.bsfilms</item>
+        <item>com.didjdk.adbhelper</item>
+        <item>cn.wsds.gamemaster</item>
+        <item>com.shineyie.aijianji</item>
+        <item>com.mxm.douying</item>
+        <item>me.alzz.awsl</item>
+        <item>com.su.assistant.pro</item>
+        <item>com.kmxs.reader</item>
+        <item>com.chan.cwallpaper</item>
+        <item>com.sdyzhinet.zyesp</item>
+        <item>net.xmind.doughnut</item>
+        <item>com.mubu.app</item>
+        <item>com.gifediting.gifmake</item>
+        <item>com.snda.wifilocating</item>
+        <item>com.newskyer.draw</item>
+        <item>com.zhpphls.banma</item>
+        <item>com.huoyan.hyspdy</item>
+        <item>com.xingxing.xxspdy</item>
+        <item>com.starmoon.smfilms</item>
+        <item>com.zhuifeng.zfspdy</item>
+        <item>com.xinliwangluo.doimage</item>
+        <item>com.starrysky.ssfilms</item>
+        <item>videoeditor.videorecorder.screenrecorder</item>
+	</string-array>
+    
+</resources>
